@@ -1,4 +1,4 @@
-# Demo: Poor Man's GitOps
+# Demo: Poor Conrad's GitOps
 
 ### 1. Build The Agent
 
